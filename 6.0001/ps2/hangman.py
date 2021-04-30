@@ -1,5 +1,5 @@
 # Problem Set 2, hangman.py
-# Name: Jeremiah Flaga
+# Name: gpk2000
 # Collaborators:
 # Time spent:
     # Started:          July 24, 2017 11:24 PM
