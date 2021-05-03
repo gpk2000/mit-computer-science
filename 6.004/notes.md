@@ -24,8 +24,7 @@ $$H(X) = E(I(X)) = \sum_i p_i \log_2 \frac{1}{p_i}$$
 
 8. High probability(Less information), Low probability(More information)
 
-9. **Huffman's Algorithm**: Given a set of symbols and their probabilities, Huffman's algorithm tells us how to construct optimal variable-length encoding. By "optimal" we mean that, assuming we are encoding each symbol one at a time, no other variable-length code will have a shorter expected length.<br> <br>
-	![wikipedia](imgs/20210503-111058.png)
+9. **Huffman's Algorithm**: Given a set of symbols and their probabilities, Huffman's algorithm tells us how to construct optimal variable-length encoding. By "optimal" we mean that, assuming we are encoding each symbol one at a time, no other variable-length code will have a shorter expected length. [Algorithm link](https://en.wikipedia.org/wiki/Huffman_coding#Compression)
 	
 10. **Hamming Distance**: The number of positions in which the corresponding digits differ in two encodings of same length.
 
